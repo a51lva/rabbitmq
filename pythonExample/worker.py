@@ -1,3 +1,4 @@
+#Round-robin dispatching
 import pika
 import time
 
